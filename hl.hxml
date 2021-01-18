@@ -1,0 +1,7 @@
+--main Main
+-lib heaps
+-lib hlsdl
+-D windowSize=1024x768
+-D windowFixed
+-hl test.hl
+-debug
